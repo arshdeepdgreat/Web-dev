@@ -14,11 +14,13 @@ h1 {
   line-height: 2;
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
+  color: teal;
 }
 h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 2rem;
   font-weight: normal;
+  color: navy;
 }
 h3 {
   font-family: "Montserrat", sans-serif;
